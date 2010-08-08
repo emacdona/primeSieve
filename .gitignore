@@ -1,3 +1,5 @@
 prime
 *.o
 *~
+autom4te.cache
+configure
