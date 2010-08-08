@@ -10,4 +10,4 @@ bits.o: bits.c
 	$(CC) $(CFLAGS) -c -o bits.o bits.c
 
 clean:
-	rm -f prime main.o bits.o
+	rm -rf prime main.o bits.o autom4te.cache config.log config.status configure *~

@@ -3,3 +3,5 @@ prime
 *~
 autom4te.cache
 configure
+config.log
+config.status
